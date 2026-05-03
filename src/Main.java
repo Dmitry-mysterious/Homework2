@@ -42,7 +42,7 @@ void main() {
     // Задача 5
     System.out.println("Задание 5:");
 
-    var frog = 19;
+    var frog = 3.5;
     System.out.println("Начальное число: " + frog);
 
     frog *= 10;
